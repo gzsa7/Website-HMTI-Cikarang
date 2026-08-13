@@ -1,4 +1,10 @@
 # Website-HMTI-Cikarang
+## 1. Install npm
+
+```bash
+npm install
+```
+
 # TAHAP 6 — Admin Dashboard: Setup Tambahan
 
 ## 1. Install Dependency Tambahan
